@@ -1,4 +1,4 @@
-# **Data Analytics Portfolio**
+# **Data Analytics Portfolio** `#RRGGBB`
 
 This is the portfolio of all class assignments I have completed in Data Analytics. This shows all the analytics techniques I have learned in my ANLY 6100 class. Each module demonstrates different techniques and complexities.
 
