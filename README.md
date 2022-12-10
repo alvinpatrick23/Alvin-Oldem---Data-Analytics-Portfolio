@@ -1,10 +1,10 @@
-###### Data Analytics Portfolio
+# Data Analytics Portfolio
 
 This is the portfolio of all class assignments I have completed in Data Analytics.
 
-#### My Résumé
+### My Résumé
 Résumé
-#### Table of Contents
+### Table of Contents
 Module 1: Using Colab
 
 A1: Markdown CV
