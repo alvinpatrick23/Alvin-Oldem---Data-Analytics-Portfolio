@@ -33,5 +33,5 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 - A7 List Your Data Analytics Skills
 
-`#0969DA`
+
 
