@@ -1,6 +1,6 @@
 # **Data Analytics Portfolio**
 
-This is the portfolio of all class assignments I have completed in Data Analytics.
+This is the portfolio of all class assignments I have completed in Data Analytics. This shows all the analytics techniques I have learned in my ANLY 6100 class. Each module demonstrates different techniques and complexities.
 
 ### My Résumé
 [Résumé](https://colab.research.google.com/drive/1_eR5Y4123Pfous0-2uMVw-lxKtWXyYRi?usp=sharing)
