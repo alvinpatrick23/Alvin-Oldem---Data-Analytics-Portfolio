@@ -32,4 +32,4 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 **7. Module 7: Use GitHub to Create Your Assignment Portfolio**
 
 - A7 List Your Data Analytics Skills
-`#0d1117`
+
