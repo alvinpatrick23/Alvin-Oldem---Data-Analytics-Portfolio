@@ -7,7 +7,7 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 ### Table of Contents
 **1. Module 1: Using Colab**
 
-A1: Markdown CV
+-A1: Markdown CV
 
 **2. Module 2: Fundamentals of Programming for Data Analysis**
 
