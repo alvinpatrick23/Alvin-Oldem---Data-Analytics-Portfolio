@@ -1,4 +1,4 @@
-# **Data Analytics Portfolio**`#0969DA` 
+# **Data Analytics Portfolio**
 
 This is the portfolio of all class assignments I have completed in Data Analytics. This shows all the analytics techniques I have learned in my ANLY 6100 class. Each module demonstrates different techniques and complexities.
 
@@ -32,4 +32,6 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 **7. Module 7: Use GitHub to Create Your Assignment Portfolio**
 
 - A7 List Your Data Analytics Skills
+
+`#0969DA`
 
